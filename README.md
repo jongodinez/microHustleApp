@@ -1,7 +1,7 @@
 # microHustleApp
 React Native mobile application to support micro-enterprise entrepreneurs.
 
-# App Outline
+## App Outline
 1. Load app
 2. Knowledge Base - industry, subvertical, supplies
 3. Pick industry & set personal name
